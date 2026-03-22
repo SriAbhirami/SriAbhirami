@@ -38,10 +38,30 @@
 ![Snake animation](https://github.com/SriAbhirami/SriAbhirami/blob/output/snake.svg)
 
 
+## 💖 Support My Work
+
+<p align="center">
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=4000&color=FF69B4&center=true&vCenter=true&width=600&lines=Your+support+keeps+me+creating!;Every+coffee+fuels+my+projects;Thank+you+for+being+awesome!" alt="Support Animation" />
+</p>
+
+<p align="center">
+  <!-- Ko-fi button -->
+  <a href="https://ko-fi.com/sriabhiramijl" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="80" alt="Support me on Ko-fi"/>
+  </a>
+</p>
 
 ## 👀 Visitor Count
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SriAbhirami&color=39FF14&style=for-the-badge" height="50"/>
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Thanks+for+stopping+by;You+make+this+journey+special!" alt="Visitor Animation" />
+</p>
+
+<p align="center">
+  <!-- Custom visitor badge -->
+  <img src="https://komarev.com/ghpvc/?username=sriabhiramijl&style=for-the-badge&color=ff69b4&label=Profile+Visitors" height="80" alt="Visitor Badge"/>
 </p>
 
 ## 👩‍💻 About Me
