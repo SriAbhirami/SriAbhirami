@@ -39,7 +39,10 @@
 
 
 
-
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SriAbhirami&color=39FF14&style=for-the-badge" height="50"/>
+</p>
 
 ## 👩‍💻 About Me
 
