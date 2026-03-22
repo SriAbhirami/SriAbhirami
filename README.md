@@ -31,6 +31,16 @@ Studying at <b>Ponjesly College of Engineering</b><br>
   🚀 Exploring Tech • 📊 Data Enthusiast • 🎨 Creative Coder
 </p>
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/success123456">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" height="40"/>
+  </a>
+  <a href="https://github.com/SriAbhirami">
+    <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  </a>
+</p>
 
 
 
