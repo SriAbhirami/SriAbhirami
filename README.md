@@ -29,6 +29,7 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriAbhirami&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
 
 ---
+
 ## 👩‍💻 About Me
 
 - 🎓 Studying at **Ponjesly College of Engineering**  
@@ -42,15 +43,20 @@
 - 📂 Projects available at ⚫ **GitHub**, 🟧 **LinkedIn**  
 - 🧠 Let’s connect and collaborate on exciting projects!
 
-
-
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/Followers-2-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/Following-2-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  <a href="https://github.com/SriAbhirami?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-2-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  </a>
+  <a href="https://github.com/SriAbhirami?tab=following">
+    <img src="https://img.shields.io/badge/Following-2-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  </a>
 </p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SriAbhirami&theme=matrix&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commits,Issues,PullRequest)
@@ -63,22 +69,13 @@
 
 ---
 
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/success123456" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" 
-         style="height:70px; border-radius:12px; box-shadow:0 0 20px #39FF14; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" height="65"/>
   </a>
   <a href="https://github.com/SriAbhirami" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black" 
-         style="height:70px; border-radius:12px; box-shadow:0 0 20px #39FF14; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black" height="65"/>
   </a>
 </p>
-
