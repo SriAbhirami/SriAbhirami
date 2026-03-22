@@ -67,10 +67,10 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SriAbhirami&theme=matrix&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commits,Issues,PullRequest)
+![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=SriAbhirami&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+
 
 ---
 
