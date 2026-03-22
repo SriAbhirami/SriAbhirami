@@ -4,6 +4,16 @@
 
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriAbhirami&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriAbhirami&layout=compact&theme=radical)
+
+
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriAbhirami&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
+
+
+
 
 
 
