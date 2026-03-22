@@ -41,6 +41,7 @@ Studying at <b>Ponjesly College of Engineering</b><br>
     <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
   </a>
 </p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriAbhirami&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
 
 
 
