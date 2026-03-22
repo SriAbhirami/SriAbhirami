@@ -35,7 +35,8 @@
 
 
 
-![Snake animation](https://github.com/SriAbhirami/SriAbhirami/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SriAbhirami/SriAbhirami/blob/output/snake.svg)
+
 
 
 
