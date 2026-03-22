@@ -35,7 +35,9 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=SriAbhirami&color=39FF14&style=for-the-badge)
+![Snake animation](https://github.com/SriAbhirami/SriAbhirami/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 ## 👩‍💻 About Me
