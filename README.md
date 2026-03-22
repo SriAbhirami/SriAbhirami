@@ -29,6 +29,14 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriAbhirami&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
 
 ---
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=🐍+Python+Developer;📊+Data+Analyst;🎨+Creative+Coder)
+
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=SriAbhirami&color=39FF14&style=for-the-badge)
+
 
 ## 👩‍💻 About Me
 
