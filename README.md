@@ -64,19 +64,31 @@
   <img src="https://komarev.com/ghpvc/?username=sriabhiramijl&style=for-the-badge&color=ff69b4&label=Profile+Visitors" height="80" alt="Visitor Badge"/>
 </p>
 
-## 👩‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Studying at **Ponjesly College of Engineering**  
-- 💻 Pursuing **Computer Science & Engineering**  
-- 🔥 Passionate about **Coding & Programming**  
-- 🤓 Currently working on 🐍 **Python**, 🟨 **JavaScript**  
-- 🌱 Currently learning 🟩 **FastAPI**, 🟨 **JavaScript**  
-- 🧑‍💻 I work using 🐙 **GitHub**, 🔵 **VSCode**, 📓 **Jupyter Notebook**  
-- 🔍 Looking for help in 🟧 **LeetCode**  
-- 💬 Ask me about 🐍 **Python**, 🟥 **HTML5**, 🟦 **CSS3**, 🟩 **Bootstrap**  
-- 📂 Projects available at ⚫ **GitHub**, 🟧 **LinkedIn**  
-- 🧠 Let’s connect and collaborate on exciting projects!
+<table>
+<tr>
+<td>
 
+- 🎓 Studying at Ponjesly College of Engineering  
+- 💻 Pursuing Computer Science & Engineering  
+- 🔥 Passionate about Coding & Programming  
+- 🤓 Currently working on 🐍 Python, 📙 JavaScript  
+- 🌱 Currently learning 🧃 FastAPI, 📙 JavaScript  
+- 🧑‍💻 I work using 👩‍💻 GitHub, 🔵 VSCode, 📔 Jupyter Notebook  
+- 👀 Looking for help in 📙 LeetCode  
+- 💬 Ask me about 🐍 Python, 📕 HTML5, 🔵 CSS3, 🟩 Bootstrap  
+- 📁 Projects available at ⚫ GitHub, 📙 LinkedIn  
+- 💬 Let’s connect and collaborate on exciting projects!  
+
+</td>
+<td>
+  
+<img src="https://i.postimg.cc/pr9fLV9g/mangshii-shi-shi.gif" alt="Cartoon girl coding" width="300"/>
+
+</td>
+</tr>
+</table>
 ---
 
 <p align="center">
