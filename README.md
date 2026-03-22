@@ -4,55 +4,81 @@
 
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriAbhirami&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriAbhirami&layout=compact&theme=radical)
+## ⚡ GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriAbhirami&show_icons=true&theme=radical&title_color=39FF14&text_color=FFFFFF&bg_color=000000)
 
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriAbhirami&theme=radical&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)
+
+---
+
+## 🎨 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriAbhirami&layout=compact&theme=radical&title_color=39FF14&text_color=FFFFFF&bg_color=000000)
+
+---
+
+## ⚡ Neon Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriAbhirami&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
 
-<h1 align="center">🌟 Sri Abhirami J L 🌟</h1>
+---
+## 👩‍💻 About Me
 
-<p align="center">
-Studying at <b>Ponjesly College of Engineering</b><br>
-💻 Pursuing <b>Computer Science & Engineering</b><br>
-🔥 Passionate about <b>Coding & Programming</b>
-</p>
+- 🎓 Studying at **Ponjesly College of Engineering**  
+- 💻 Pursuing **Computer Science & Engineering**  
+- 🔥 Passionate about **Coding & Programming**  
+- 🤓 Currently working on 🐍 **Python**, 🟨 **JavaScript**  
+- 🌱 Currently learning 🟩 **FastAPI**, 🟨 **JavaScript**  
+- 🧑‍💻 I work using 🐙 **GitHub**, 🔵 **VSCode**, 📓 **Jupyter Notebook**  
+- 🔍 Looking for help in 🟧 **LeetCode**  
+- 💬 Ask me about 🐍 **Python**, 🟥 **HTML5**, 🟦 **CSS3**, 🟩 **Bootstrap**  
+- 📂 Projects available at ⚫ **GitHub**, 🟧 **LinkedIn**  
+- 🧠 Let’s connect and collaborate on exciting projects!
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Followers-2-39FF14?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Following-2-39FF14?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
 
 ---
 
 <p align="center">
-  🚀 Exploring Tech • 📊 Data Enthusiast • 🎨 Creative Coder
+  <img src="https://img.shields.io/badge/Profile%20Views-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/Followers-2-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/Following-2-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
 </p>
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SriAbhirami&theme=matrix&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commits,Issues,PullRequest)
+
+---
+
+## ⏰ Commit Activity
+
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SriAbhirami&theme=radical)
+
+---
+
+
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/success123456">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" height="40"/>
+  <a href="https://www.linkedin.com/in/success123456" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" 
+         style="height:70px; border-radius:12px; box-shadow:0 0 20px #39FF14; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://github.com/SriAbhirami">
-    <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  <a href="https://github.com/SriAbhirami" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black" 
+         style="height:70px; border-radius:12px; box-shadow:0 0 20px #39FF14; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
 </p>
-## ⚡ Neon Contribution Graph
-
-
-
-
-
-
-
-
-
-
-
-
-
 
