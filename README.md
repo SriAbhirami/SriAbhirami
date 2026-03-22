@@ -17,6 +17,23 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriAbhirami&theme=radical&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)
 
 ---
+<p align="center">
+  <!-- Animated Fun Badges header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🎉+Fun+Badges;🎉+Fun+Badges;🎉+Fun+Badges" alt="Fun Badges Animation" />
+</p>
+
+<p align="center">
+  <!-- Personality buttons with animated SVG badges -->
+  <a href="#"><img src="https://img.shields.io/badge/Sweet-FFB6C1?style=for-the-badge&logo=smile&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hardworking-FFD700?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Enthusiastic-FF4500?style=for-the-badge&logo=fire&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Determined-8A2BE2?style=for-the-badge&logo=target&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Super%20Fast-00BFFF?style=for-the-badge&logo=zap&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Adaptable-32CD32?style=for-the-badge&logo=sync&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Quick%20Learner-FF69B4?style=for-the-badge&logo=book&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Funny-FFA500?style=for-the-badge&logo=smiley&logoColor=black&labelColor=white&cacheSeconds=1" height="50"/></a>
+</p>
+
 
 ## 🎨 Top Languages
 
@@ -115,6 +132,21 @@
 
 
 ---
+<p align="left">
+  <!-- Animated Tech Stack header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=🛠️+Tech+Stack" alt="Tech Stack Animation" />
+</p>
+
+<p align="center">
+  <!-- Big skill icons -->
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,html,css,bootstrap,git,vscode,jupyter,mysql" height="80"/>
+</p>
+
+<p align="center">
+  <!-- Extra icons not in skillicons -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="80"/>
+</p>
+
 
 ## ⏰ Commit Activity
 
