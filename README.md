@@ -8,8 +8,7 @@
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriAbhirami&show_icons=true&theme=radical&title_color=39FF14&text_color=FFFFFF&bg_color=000000)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SriAbhirami&show_icons=true&theme=radical)
 
 
 ## 🔥 Streak Stats
