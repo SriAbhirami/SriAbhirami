@@ -114,6 +114,22 @@
 
 ---
 
+## 🏆 Infosys Springboard Trophies
+
+
+<p align="left">
+  <img src="https://i.postimg.cc/HsYVVJYv/download.gif" width="150"/>
+  <img src="YOUR_NEXT_GIF_LINK" width="150"/>
+</p>
+
+
+## 🏆 Leet Code Trophies
+
+
+<p align="left">
+  <img src="https.gif" width="150"/>
+  <img src="YOUR_NEXT_GIF_LINK" width="150"/>
+</p>
 ## 👀 Visitor Count
 
 <p align="center">
@@ -125,6 +141,8 @@
   <!-- Custom visitor badge -->
   <img src="https://komarev.com/ghpvc/?username=sriabhiramijl&style=for-the-badge&color=ff69b4&label=Profile+Visitors" height="80" alt="Visitor Badge"/>
 </p>
+
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=SriAbhirami&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
