@@ -36,7 +36,7 @@
 
 ## 🎨 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriAbhirami&layout=compact&theme=radical&title_color=39FF14&text_color=FFFFFF&bg_color=000000)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SriAbhirami&layout=compact&theme=radical" />
 
 ---
 ## 💖 Support My Work
