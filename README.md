@@ -119,7 +119,8 @@
 
 <p align="left">
   <img src="https://i.postimg.cc/HsYVVJYv/download.gif" width="150"/>
-  <img src="YOUR_NEXT_GIF_LINK" width="150"/>
+  
+  <img src="https://i.postimg.cc/L5DYPc62/download.gif" width="150"/>
 </p>
 
 
@@ -130,6 +131,8 @@
   <img src="https.gif" width="150"/>
   <img src="YOUR_NEXT_GIF_LINK" width="150"/>
 </p>
+
+
 ## 👀 Visitor Count
 
 <p align="center">
